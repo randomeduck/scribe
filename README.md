@@ -1,0 +1,2 @@
+# scribe
+Note Taking App
